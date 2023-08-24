@@ -34,7 +34,7 @@ TileSets/Civ6 SR/Railroad
   index: -1
 TileSets/Civ6 SR/Road
   rotate: false
-  xy: 505, 20
+  xy: 1088, 20
   size: 60, 32
   orig: 60, 32
   offset: 0, 0
@@ -137,233 +137,247 @@ TileSets/Civ6 SR/Tiles/Cerro de Potosi
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/Civ6 SR/Tiles/Citadel
+TileSets/Civ6 SR/Tiles/Chocolate Hills
   rotate: false
   xy: 1356, 436
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
-TileSets/Civ6 SR/Tiles/Citadel-Pillaged
+TileSets/Civ6 SR/Tiles/Chocolate Hills2
   rotate: false
   xy: 1428, 436
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
-TileSets/Civ6 SR/Tiles/Citadel-Pillaged2
+TileSets/Civ6 SR/Tiles/Citadel
   rotate: false
   xy: 1500, 436
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
+TileSets/Civ6 SR/Tiles/Citadel-Pillaged
+  rotate: false
+  xy: 1572, 436
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
+TileSets/Civ6 SR/Tiles/Citadel-Pillaged2
+  rotate: false
+  xy: 1644, 436
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
 TileSets/Civ6 SR/Tiles/City center
   rotate: false
-  xy: 1572, 435
+  xy: 1716, 435
   size: 64, 73
   orig: 64, 73
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/City center-Ancient era
   rotate: false
-  xy: 1644, 444
+  xy: 1788, 444
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/City center-Classical era
   rotate: false
-  xy: 1644, 444
+  xy: 1788, 444
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/City center-Atomic era
   rotate: false
-  xy: 1716, 436
+  xy: 1860, 436
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/City center-Information era
   rotate: false
-  xy: 1716, 436
+  xy: 1860, 436
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/City center-Future era
   rotate: false
-  xy: 1788, 431
+  xy: 1932, 431
   size: 64, 77
   orig: 64, 77
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/City center-Industrial era
   rotate: false
-  xy: 1860, 438
+  xy: 368, 330
   size: 64, 70
   orig: 64, 70
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/City center-Modern era
   rotate: false
-  xy: 1860, 438
+  xy: 368, 330
   size: 64, 70
   orig: 64, 70
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/City center-Medieval era
   rotate: false
-  xy: 1932, 444
+  xy: 440, 364
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/City center-Renaissance era
   rotate: false
-  xy: 1932, 444
+  xy: 440, 364
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Coast
   rotate: false
-  xy: 368, 336
+  xy: 512, 364
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Lakes
   rotate: false
-  xy: 368, 336
+  xy: 512, 364
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Customs house
   rotate: false
-  xy: 440, 356
+  xy: 584, 364
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Customs house-Pillaged
   rotate: false
-  xy: 512, 356
+  xy: 656, 364
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Customs house-Pillaged2
   rotate: false
-  xy: 584, 364
+  xy: 728, 364
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Desert
   rotate: false
-  xy: 656, 380
+  xy: 800, 380
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Desert+Hill
   rotate: false
-  xy: 728, 380
+  xy: 872, 380
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Desert+Hill+Fallout
   rotate: false
-  xy: 872, 380
+  xy: 512, 300
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Desert+Hill+Fallout2
   rotate: false
-  xy: 296, 264
+  xy: 584, 300
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Desert+Hill+Volcanic Soil
   rotate: false
-  xy: 289, 184
+  xy: 656, 284
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Desert+Hill2
   rotate: false
-  xy: 800, 380
+  xy: 440, 300
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/El Dorado
   rotate: false
-  xy: 368, 272
+  xy: 728, 300
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Fallout
   rotate: false
-  xy: 440, 292
+  xy: 800, 316
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Farm
   rotate: false
-  xy: 289, 104
+  xy: 872, 300
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Farm-Pillaged
   rotate: false
-  xy: 584, 284
+  xy: 368, 250
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Farm-Pillaged2
   rotate: false
-  xy: 656, 300
+  xy: 289, 176
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Farm2
   rotate: false
-  xy: 512, 284
+  xy: 296, 256
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Farm2-Pillaged
   rotate: false
-  xy: 728, 308
+  xy: 289, 104
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Farm2-Pillaged2
   rotate: false
-  xy: 800, 308
+  xy: 361, 178
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Fishing Boats
   rotate: false
-  xy: 872, 316
+  xy: 361, 114
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -377,462 +391,462 @@ TileSets/Civ6 SR/Tiles/Flood plains
   index: -1
 TileSets/Civ6 SR/Tiles/Forest
   rotate: false
-  xy: 944, 364
+  xy: 361, 34
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/ForestLow
   rotate: false
-  xy: 1016, 364
+  xy: 440, 220
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/ForestUp
   rotate: false
-  xy: 1088, 364
+  xy: 512, 220
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Fort
   rotate: false
-  xy: 1160, 372
+  xy: 584, 228
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Fort-Pillaged
   rotate: false
-  xy: 1232, 372
+  xy: 433, 148
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Fort-Pillaged2
   rotate: false
-  xy: 944, 292
+  xy: 433, 76
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Fountain of Youth
   rotate: false
-  xy: 1016, 300
+  xy: 505, 156
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Geothermal Fissure
   rotate: false
-  xy: 1088, 284
+  xy: 505, 76
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Grand Mesa
   rotate: false
-  xy: 1160, 308
+  xy: 656, 220
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Grassland
   rotate: false
-  xy: 1232, 308
+  xy: 728, 236
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Grassland+Hill
   rotate: false
-  xy: 872, 252
+  xy: 800, 252
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Grassland+Hill+Fallout
   rotate: false
-  xy: 1016, 236
+  xy: 433, 12
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Grassland+Hill+Fallout2
   rotate: false
-  xy: 1088, 220
+  xy: 505, 12
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Grassland+Hill+Volcanic Soil
   rotate: false
-  xy: 1160, 228
+  xy: 800, 172
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Grassland+Hill2
   rotate: false
-  xy: 944, 228
+  xy: 872, 236
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Great Barrier Reef
   rotate: false
-  xy: 1232, 236
+  xy: 728, 164
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Ha Long Bay
   rotate: false
-  xy: 440, 212
+  xy: 872, 156
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Ha Long Bay2
   rotate: false
-  xy: 512, 204
+  xy: 944, 364
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Ha Long Bay3
   rotate: false
-  xy: 584, 204
+  xy: 1016, 364
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Holy site
   rotate: false
-  xy: 656, 220
+  xy: 944, 284
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Holy site-Pillaged
   rotate: false
-  xy: 728, 228
+  xy: 1088, 364
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Holy site-Pillaged2
   rotate: false
-  xy: 800, 228
+  xy: 944, 204
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Ice
   rotate: false
-  xy: 368, 200
+  xy: 1016, 292
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Ice2
   rotate: false
-  xy: 361, 128
+  xy: 1160, 372
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Ice3
   rotate: false
-  xy: 361, 64
+  xy: 1016, 228
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Jungle
   rotate: false
-  xy: 872, 172
+  xy: 1088, 284
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/JungleLow
   rotate: false
-  xy: 944, 148
+  xy: 1160, 292
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/JungleUp
   rotate: false
-  xy: 1016, 156
+  xy: 1232, 364
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Krakatoa
   rotate: false
-  xy: 1088, 148
+  xy: 1232, 292
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Landmark
   rotate: false
-  xy: 1160, 148
+  xy: 1088, 204
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Landmark-Pillaged
   rotate: false
-  xy: 1232, 156
+  xy: 1160, 212
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Landmark-Pillaged2
   rotate: false
-  xy: 1304, 356
+  xy: 1232, 212
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Lumber mill
   rotate: false
-  xy: 1376, 364
+  xy: 944, 132
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Lumber mill-Pillaged
   rotate: false
-  xy: 1304, 284
+  xy: 1016, 156
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Lumber mill-Pillaged2
   rotate: false
-  xy: 1448, 364
+  xy: 1088, 132
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Manufactory
   rotate: false
-  xy: 1376, 292
+  xy: 1160, 140
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Manufactory-Pillaged
   rotate: false
-  xy: 1304, 212
+  xy: 1232, 140
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Manufactory-Pillaged2
   rotate: false
-  xy: 1376, 220
+  xy: 1016, 84
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Marsh
   rotate: false
-  xy: 1448, 292
+  xy: 1088, 60
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Matterhorn
   rotate: false
-  xy: 1448, 212
+  xy: 1160, 60
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Mine
   rotate: false
-  xy: 1304, 148
+  xy: 1232, 76
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Mine-Pillaged
   rotate: false
-  xy: 1376, 148
+  xy: 1232, 4
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Mine-Pillaged2
   rotate: false
-  xy: 1448, 140
+  xy: 800, 100
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Moai
   rotate: false
-  xy: 440, 140
+  xy: 872, 84
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Moai-Pillaged
   rotate: false
-  xy: 433, 68
+  xy: 944, 60
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Moai-Pillaged2
   rotate: false
-  xy: 512, 132
+  xy: 1016, 12
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Mount Fuji
   rotate: false
-  xy: 584, 124
+  xy: 577, 4
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Mount Kailash
   rotate: false
-  xy: 656, 148
+  xy: 1304, 364
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Mount Kilimanjaro
   rotate: false
-  xy: 728, 148
+  xy: 577, 84
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Mount Sinai
   rotate: false
-  xy: 800, 162
+  xy: 1376, 370
   size: 64, 58
   orig: 64, 58
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Mountain
   rotate: false
-  xy: 505, 60
+  xy: 1304, 292
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Mountain2
   rotate: false
-  xy: 577, 52
+  xy: 1376, 298
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Mountain3
   rotate: false
-  xy: 872, 92
+  xy: 649, 4
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Oasis
   rotate: false
-  xy: 800, 90
+  xy: 1448, 364
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Ocean
   rotate: false
-  xy: 944, 76
+  xy: 1304, 220
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Oil WellC
   rotate: false
-  xy: 1016, 76
+  xy: 649, 84
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Oil WellC-Pillaged
   rotate: false
-  xy: 1088, 68
+  xy: 721, 4
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Oil WellC-Pillaged2
   rotate: false
-  xy: 1160, 68
+  xy: 721, 84
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Oil well
   rotate: false
-  xy: 1232, 76
+  xy: 1304, 140
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Oil+Oil well
   rotate: false
-  xy: 1232, 76
+  xy: 1304, 140
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Oil well-Pillaged
   rotate: false
-  xy: 1304, 68
+  xy: 1376, 218
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Oil well-Pillaged2
   rotate: false
-  xy: 1376, 68
+  xy: 1448, 284
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Old Faithful
   rotate: false
-  xy: 1232, 4
+  xy: 1520, 364
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Pasture
   rotate: false
-  xy: 1448, 68
+  xy: 1304, 68
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Pasture-Pillaged
   rotate: false
-  xy: 656, 76
+  xy: 1376, 146
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Pasture-Pillaged2
   rotate: false
-  xy: 728, 76
+  xy: 1448, 212
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
@@ -846,287 +860,287 @@ TileSets/Civ6 SR/Tiles/Plains
   index: -1
 TileSets/Civ6 SR/Tiles/Plains+Hill
   rotate: false
-  xy: 1376, 4
+  xy: 584, 164
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Plains+Hill+Fallout
   rotate: false
-  xy: 433, 4
+  xy: 1520, 300
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Plains+Hill+Fallout2
   rotate: false
-  xy: 872, 28
+  xy: 1376, 82
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Plains+Hill+Volcanic Soil
   rotate: false
-  xy: 800, 10
+  xy: 793, 4
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Plains+Hill2
   rotate: false
-  xy: 1448, 4
+  xy: 1592, 372
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Plantation
   rotate: false
-  xy: 944, 4
+  xy: 1448, 140
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Plantation-Pillaged
   rotate: false
-  xy: 1016, 4
+  xy: 1592, 300
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Plantation-Pillaged2
   rotate: false
-  xy: 649, 4
+  xy: 1520, 228
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Polder
   rotate: false
-  xy: 721, 4
+  xy: 1376, 10
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Polder-Pillaged
   rotate: false
-  xy: 1520, 363
+  xy: 1448, 68
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Polder-Pillaged2
   rotate: false
-  xy: 1520, 291
+  xy: 1520, 156
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Quarry
   rotate: false
-  xy: 1520, 219
+  xy: 1592, 228
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Quarry-Pillaged
   rotate: false
-  xy: 1520, 147
+  xy: 1520, 84
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Quarry-Pillaged2
   rotate: false
-  xy: 1520, 75
+  xy: 1592, 156
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/River-Bottom
   rotate: false
-  xy: 1592, 355
+  xy: 865, 4
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/River-BottomLeft
   rotate: false
-  xy: 1592, 275
+  xy: 1520, 4
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/River-BottomRight
   rotate: false
-  xy: 1592, 195
+  xy: 1592, 76
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Rock of Gibraltar
   rotate: false
-  xy: 1088, 4
+  xy: 1448, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Snow
   rotate: false
-  xy: 1160, 4
+  xy: 1592, 12
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Snow+Hill
   rotate: false
-  xy: 1520, 11
+  xy: 1788, 380
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Snow+Hill+Fallout
   rotate: false
-  xy: 1592, 67
+  xy: 1932, 367
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Snow+Hill+Fallout2
   rotate: false
-  xy: 1664, 372
+  xy: 1664, 371
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Snow+Hill+Volcanic Soil
   rotate: false
-  xy: 1664, 292
+  xy: 1664, 291
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Snow+Hill2
   rotate: false
-  xy: 1592, 131
+  xy: 1860, 372
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Sri Pada
   rotate: false
-  xy: 1664, 220
+  xy: 1664, 219
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Terrace Farm
   rotate: false
-  xy: 1664, 148
+  xy: 1664, 147
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Terrace farm-Pillaged
   rotate: false
-  xy: 1664, 76
+  xy: 1664, 75
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Terrace farm-Pillaged2
   rotate: false
-  xy: 1664, 4
+  xy: 1736, 308
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Trading post
   rotate: false
-  xy: 1736, 287
+  xy: 1736, 164
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Trading post-Pillaged
   rotate: false
-  xy: 1736, 207
+  xy: 1736, 84
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Trading post-Pillaged2
   rotate: false
-  xy: 1736, 127
+  xy: 1736, 4
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Tundra
   rotate: false
-  xy: 1736, 63
+  xy: 1664, 11
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Tundra+Hill
   rotate: false
-  xy: 1808, 367
+  xy: 1808, 308
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Tundra+Hill+Fallout
   rotate: false
-  xy: 1808, 239
+  xy: 1808, 180
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Tundra+Hill+Fallout2
   rotate: false
-  xy: 1808, 175
+  xy: 1808, 116
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Tundra+Hill+Volcanic Soil
   rotate: false
-  xy: 1808, 95
+  xy: 1808, 36
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Tundra+Hill2
   rotate: false
-  xy: 1808, 303
+  xy: 1808, 244
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Uluru
   rotate: false
-  xy: 1880, 374
+  xy: 1880, 303
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Volcanic Soil
   rotate: false
-  xy: 1880, 294
+  xy: 1880, 223
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/Tiles/Volcano
   rotate: false
-  xy: 1880, 214
+  xy: 1880, 143
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 SR/TopBorder
   rotate: false
-  xy: 1736, 367
+  xy: 1736, 244
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
